@@ -6,7 +6,7 @@
 
 ![screenshot](./app_screenshot.png)
 
-To develop the project we have used CSS Grid, CSS flex and gradient to tools to build apple nsvbar buttons. 
+To develop the project we have used CSS Grid, CSS flex and gradient to tools to build apple navbar buttons. 
 
 ## Built With
 
@@ -16,7 +16,7 @@ To develop the project we have used CSS Grid, CSS flex and gradient to tools to 
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/tnyandoro/apple_clone_webpage/feature-apple-clone/index.html)
 
 
 ## Getting Started
