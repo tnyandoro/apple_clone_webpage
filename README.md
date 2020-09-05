@@ -2,11 +2,11 @@
 
 # Apple Webpage Clone 
 
-> One paragraph statement about the project.
+> This is an Apple clone webpage.This page is done using HTML 5, CSS3 CSS Grid CSS Flex and CSS Float. The main objective of the project is use the HTML proper sementatics.  
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+To develop the project we have used CSS Grid, CSS flex and gradient to tools to build apple nsvbar buttons. 
 
 ## Built With
 
@@ -21,56 +21,48 @@ Additional description about the project and its features.
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+**To view the project live you need a browser on your machine .**
 
 
-To get a local copy up and running follow these simple example steps.
+
+
 
 ### Prerequisites
 
-### Setup
+To get this project up and running, you must have a browser running on your machine.
 
-### Install
+### Installation
 
-### Usage
+**To get this project set up on your local machine, follow these simple steps:**
 
-### Run tests
-
-### Deployment
-
-
+1. Open it in any browser
 
 ## Authors
 
-👤 **Author1**
+👤 **Eric Enaburekhan**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+- Github: [@enaburekhan](https://github.com/enaburekhan)
+- Twitter: [@enaburekhaneric](https://twitter.com/enaburekhaneric)
+- Linkedin: [@ericenaburekhan](https://www.linkedin.com/in/eric-enaburekhan-801a28100/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/linkedinhandle)
+👤**Tendai Nyandoro**
+- Github: [@Tendai Nyandoro](https://github.com/tnyandoro)
+- Twitter: [@Tendai28](https://twitter.com/tendai28)
+- LinkedIn: [@Tendai Nyandoro](https://www.linkedin.com/in/tendai-nyandoro-a8060826/)
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](issues/).
+The best way you can contribute to this project is by submitting an [issue]() to help us improve it!
 
 ## Show your support
 
-Give a ⭐️ if you like this project!
+If you've read this far, you must like the project! Give us a ⭐️!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- This Project was part of an assignment available on The Odin Project.
+- Our thanks to Microverse and all our peers and colleagues there.
 
 ## 📝 License
 
-This project is [MIT](lic.url) licensed.
+This project has no license
