@@ -1,0 +1,104 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+ text-decoration: none; 
+ color: #fff;  
+}
+
+.nav-bar {
+  display: flex;
+  width: 70%;
+  height: 6vh;
+  justify-content: center; 
+  align-items: center; 
+  border: 1px solid green;
+  margin: 0 auto;
+  /*background: linear-gradient(180deg, #666, #5e5e5e, #707070, #808080);*/
+  background: linear-gradient(#858585, #717171 50%, #5e5e5e 50%, #777); 
+  /*470px by 290px*/ 
+  /*overflow: hidden;*/
+}
+
+.nav-about {
+    border: 1px solid #858585;
+    width: 7vw;
+    text-align: center;
+    padding: 11.5px;
+    border-right-width: 1px solid rgb(80, 80, 81);
+}
+
+.nav-about:hover {
+    background-color: rgb(80, 80, 81);  
+    border: 1px solid red;
+  }
+
+
+#bg-img {
+   background: url("https://web.archive.org/web/20140228114747im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg") 55% 100% no-repeat;
+    min-height: 69vh;
+    position: relative;
+  }
+
+  .nav-container {
+    position: absolute;
+    margin: 20px;
+    width: auto;
+    border: 1px solid blue;  
+  }
+
+  .search-input-icons {
+    
+    margin: 0 auto;
+    text-align: center;
+    border-radius: 10px;
+    /*border: 1px solid red;*/
+    height: 3vh;
+    display: flex;
+    align-items: center;
+  }
+
+  .fa-sistrix {
+    /*border: 1px solid red;*/
+    width: 30px;
+    height: 3vh;
+    text-align: center;
+    background-color: #fff; 
+    padding-top: 4px; 
+    margin-right: -5px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    /*margin-bottom: -2px;*/
+  }
+
+  input[type="search"] {
+    width: 100px;
+    height: 3vh;
+    /*margin-bottom: -2px;*/
+    justify-content: center;
+    /*margin-right: 70px;*/
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-align: center;
+
+    border: 1px solid green;
+  }
+
+  .search-input-icons input {
+      border: none;
+  }
+
+  /*#search-div {
+    position: relative;
+  }
+
+  .fa-search {
+    position: absolute;
+    color: white;
+    left: 11px;
+    top: 7px;
+    font-size: 12px;
+  }*/
