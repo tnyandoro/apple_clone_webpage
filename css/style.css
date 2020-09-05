@@ -173,7 +173,27 @@ a {
     color: blue;    
   }
 
-  /*#search-div {
+  .terms {
+    width: 100%; 
+    /*border: 1px solid black;*/ 
+    height: 3vh;
+    display: grid;
+    grid-template-columns: 3fr repeat(2, 1fr);
+  }
+
+  .terms-1 a {
+    color: blue;  
+  }
+
+  .terms-1 {
+    /*border: 1px solid red;*/
+    text-align: center;
+    border-right: 1px solid rgb(236, 225, 225);
+  }
+
+  
+
+    /*#search-div {
     position: relative;
   }
 
