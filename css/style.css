@@ -9,14 +9,23 @@ a {
  color: #fff;  
 }
 
+.nav-container {  
+    position: absolute;
+    /*margin: 40px;*/
+    width: 100%;
+    height: 6vh;
+    /*border: 1px solid blue;*/  
+    
+  }
+
 .nav-bar {
   display: flex;
-  width: 70%;
+  width: 68%;
   height: 6vh;
   justify-content: center; 
   align-items: center; 
-  border: 1px solid green;
-  margin: 0 auto;
+  /*border: 1px solid green;*/
+  margin: 60px auto;
   /*background: linear-gradient(180deg, #666, #5e5e5e, #707070, #808080);*/
   background: linear-gradient(#858585, #717171 50%, #5e5e5e 50%, #777); 
   /*470px by 290px*/ 
@@ -29,11 +38,12 @@ a {
     text-align: center;
     padding: 11.5px;
     border-right-width: 1px solid rgb(80, 80, 81);
+    height: 6vh;
 }
 
 .nav-about:hover {
     background-color: rgb(80, 80, 81);  
-    border: 1px solid red;
+    /*border: 1px solid red;*/
   }
 
 
@@ -55,22 +65,19 @@ a {
     width: 96.5%;  
   }
 
-  .nav-container {  
-    position: absolute;
-    /*margin: 40px;*/
-    width: auto;
-    border: 1px solid blue;  
-  }
+  
 
   .search-input-icons {
     
     margin: 0 auto;
     text-align: center;
     border-radius: 10px;
-    /*border: 1px solid red;*/
     height: 3vh;
     display: flex;
     align-items: center;
+    margin: 0 15px 0 15px;
+    border: 5px solid #717171;
+    font: 700;
   }
 
   .fa-sistrix {
@@ -78,7 +85,7 @@ a {
     width: 30px;
     height: 3vh;
     text-align: center;
-    background-color: #fff; 
+    color: #fff; 
     padding-top: 4px; 
     margin-right: -5px;
     border-top-left-radius: 10px;
@@ -87,15 +94,15 @@ a {
   }
 
   input[type="search"] {
-    width: 100px;
+    width: 120px;
     height: 3vh;
-    /*margin-bottom: -2px;*/
+    /*margin-left: 7px;*/   
     justify-content: center;
     /*margin-right: 70px;*/
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
     text-align: center;
-
+    background-color: #717171;  
     /*border: 1px solid green;*/
   }
 
@@ -160,6 +167,10 @@ a {
 
   .right-border a {
      color: blue; 
+  }
+
+  .online a {
+    color: blue;    
   }
 
   /*#search-div {
