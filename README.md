@@ -5,7 +5,7 @@
 > This is an Apple clone webpage.This page is done using HTML 5, CSS3 Grid, CSS Flex and CSS Float. The main objective of the project is use the HTML proper semantics CSS positioning technology.  
 
 ## Screenshot
-![screenshot](https://user-images.githubusercontent.com/51296741/92332834-76514200-f078-11ea-8ba7-fae8ab801d9b.png)
+![screenshot](https://user-images.githubusercontent.com/51296741/92337034-93007080-f09e-11ea-9dd0-b26ec1a06d3c.png)
 
 
 

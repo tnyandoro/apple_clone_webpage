@@ -62,19 +62,19 @@ a {
 }
 
 .bg-img {
-  background: url("hero.jpg") 55% 100% no-repeat;
+  background: url("../images/main3.jpg") 55% 100% no-repeat;
   min-height: 69vh;
 }
 
 .bg-img img {
   width: 96.5%;
+  margin: 0 auto;
 }
 
 .main-container {
   position: absolute;
   display: flex;
   flex-flow: column wrap;
-  /*border: 1px solid red;*/
   width: 100%;
   height: 70vh;
   justify-content: center;
@@ -82,7 +82,6 @@ a {
 }
 
 .sub-main2 {
-  /*border: 1px solid red;*/
   height: 12vh;
   display: flex;
   justify-content: center;
@@ -90,41 +89,8 @@ a {
 }
 
 .sub-main2 img {
-  /*border: 1px solid green;*/
-  height: 6vh;
-  width: 90%;
+    width: 90%;
 }
-
-/*.main1 {
-  position: absolute;
-  height: 30vh;
-  align-items: flex-end;
-}
-
-.main1 img {
-  height: 11vh;
-  width: 50%;
-  border: 1px solid black;
-}
-
-.sub-main1 {
-  position: absolute;
-  height: 48vh;
-  align-items: flex-end;
-  border: 3px solid green;
-}
-
-.sub-main1 img {
-  height: 12vh;
-  border: 1px solid red;
-  width: 80%;
-}
-
-.sub-main2 {
-  position: absolute;
-  border: 1px solid blue;
-  width: 100%;
-}*/
 
 .search-input-icons {
   border-radius: 10px;
@@ -208,4 +174,8 @@ footer a:hover {
 
 .nav-bar a:hover {
   background-color: rgb(80, 80, 81);
+}
+
+h2.hidden {
+  visibility: hidden;
 }
