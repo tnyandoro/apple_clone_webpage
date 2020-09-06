@@ -4,7 +4,8 @@
 
 > This is an Apple clone webpage.This page is done using HTML 5, CSS3 Grid, CSS Flex and CSS Float. The main objective of the project is use the HTML proper semantics CSS positioning technology.  
 
-
+## Screenshot
+![screenshot](https://user-images.githubusercontent.com/30318155/92329940-3afc4680-f06b-11ea-9d9d-f2e5d88da7b1.png)
 
 
 To develop the project we have used CSS Grid, CSS flex and gradient to build apple navbar buttons. 
