@@ -114,6 +114,7 @@ input[type="search"] {
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
   background-color: #717171;
+  border-width: 2px;
 }
 
 .search-input-icons input {
