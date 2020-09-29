@@ -1,0 +1,171 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.dflex {
+  display: flex;
+}
+
+.center {
+  justify-content: center;
+}
+
+.align {
+  align-items: center;
+}
+
+.text {
+  text-align: center;
+}
+
+.dgrid {
+  display: grid;
+}
+
+.blue {
+  color: #08c;
+}
+
+.width-100 {
+  width: 100%;
+}
+
+.margin {
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.nav-container {
+  position: absolute;
+  height: 6vh;
+  z-index: 2;
+}
+
+.nav-bar {
+  width: 68%;
+  height: 6vh;
+  margin: 60px auto;
+  background: linear-gradient(#858585, #717171 50%, #5e5e5e 50%, #777);
+}
+
+.nav-about {
+  border: 1px solid #858585;
+  width: 7vw;
+  padding: 11.5px;
+  height: 6vh;
+}
+
+.bg-img {
+  background: url("../images/main8.jpg") 55% 100% no-repeat;
+  width: 100%;
+  height: 69vh;
+  margin: 0 auto;
+}
+
+.main-container {
+  position: absolute;
+  flex-flow: column wrap;
+  width: 100%;
+  height: 70vh;
+}
+
+.sub-main2 {
+  height: 12vh;
+  display: flex;
+}
+
+.sub-main2 img {
+  width: 90%;
+}
+
+.search-input-icons {
+  border-radius: 10px;
+  height: 3vh;
+  margin: 0 15px 0 15px;
+  border: 5px solid #717171;
+}
+
+.fa-sistrix {
+  width: 30px;
+  height: 3vh;
+  color: #fff;
+  padding-top: 4px;
+  margin-right: -5px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+input[type="search"] {
+  width: 120px;
+  height: 3vh;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  background-color: #717171;
+  border-width: 2px;
+}
+
+.search-input-icons input {
+  border: none;
+}
+
+.dfooter-img {
+  padding: 1px;
+  width: 23.5%;
+}
+
+.footer-last-section {
+  font-size: 11px;
+  padding-top: 10px;
+  justify-content: flex-start;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.footer-last-section-right {
+  grid-template-columns: repeat(5, 1fr) 1.5fr 1fr 1fr;
+  width: 40%;
+  height: 5vh;
+}
+
+.footer-last-section-left {
+  width: 35%;
+  flex-flow: column wrap;
+  justify-content: space-around;
+  height: 6vh;
+  align-items: flex-start;
+}
+
+.right-border {
+  border-right: 1px solid rgb(236, 225, 225);
+  height: 3vh;
+}
+
+.terms {
+  height: 3vh;
+  grid-template-columns: 3fr repeat(2, 1fr);
+  padding-top: 5px;
+}
+
+.terms-1 {
+  border-right: 1px solid rgb(236, 225, 225);
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+.nav-bar a:hover {
+  background-color: rgb(80, 80, 81);
+}
+
+h2.hidden {
+  visibility: hidden;
+}
